@@ -1,0 +1,767 @@
+[
+  {
+    "id": "scene_S01_16x9",
+    "kind": "scene",
+    "file": "assets/generated/scenes_16x9/scene_S01_16x9.jpg",
+    "prompt": "Interior of a low military tent at night, single oil lamp on a wooden crate, wet mud floor, straw, broken arrows, a tarnished bronze mirror hanging on canvas, oxidized iron armor on the ground, warm 2200K light, canvas walls breathing in the wind, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth, people, person, crowd",
+    "width": 1280,
+    "height": 720,
+    "seed": 4100,
+    "refs": [],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "scene_S02_16x9",
+    "kind": "scene",
+    "file": "assets/generated/scenes_16x9/scene_S02_16x9.jpg",
+    "prompt": "Interior of a poor Chinese peasant weaving room, low mud-brick walls with smoke stains, wooden loom with half-woven undyed cloth, a scarred wooden table, oil lamp, clay stove with faint fire, low beams, dust, near-monochrome desaturated image, only the red official seal retains color, cold grey-brown tones, flat overcast light, dust in the air, 5th century Chinese peasant interior, cinematic film still, 35mm grain, vertical 16:9",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth, people, person, crowd",
+    "width": 1280,
+    "height": 720,
+    "seed": 4501,
+    "refs": [],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "scene_S03_16x9",
+    "kind": "scene",
+    "file": "assets/generated/scenes_16x9/scene_S03_16x9.jpg",
+    "prompt": "A dusty ancient Chinese border market at dawn, wooden stalls, cloth banners, hitching posts, horse stable with hay, leather goods with brass buckles, blacksmith forge with sparks, low backlight through dust, warm ochre palette, wide shot, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth, people, person, crowd",
+    "width": 1280,
+    "height": 720,
+    "seed": 4902,
+    "refs": [],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "scene_S04_16x9",
+    "kind": "scene",
+    "file": "assets/generated/scenes_16x9/scene_S04_16x9.jpg",
+    "prompt": "Vast Yellow River canyon at dawn, muddy turbulent water, vertical loess cliffs, a narrow path along the river, hazy dusty air, pale sun, desaturated ochre, epic scale, no people, wide shot, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth, people, person, crowd",
+    "width": 1280,
+    "height": 720,
+    "seed": 5303,
+    "refs": [],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "scene_S05_16x9",
+    "kind": "scene",
+    "file": "assets/generated/scenes_16x9/scene_S05_16x9.jpg",
+    "prompt": "Black rocky mountain at night, blizzard mixed with sand, thin ice on the ground, cold blue moonlight breaking through clouds, snow streaks in the beam, a cliff edge, desolate, no people, 7500K, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth, people, person, crowd",
+    "width": 1280,
+    "height": 720,
+    "seed": 5704,
+    "refs": [],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "scene_S06_16x9",
+    "kind": "scene",
+    "file": "assets/generated/scenes_16x9/scene_S06_16x9.jpg",
+    "prompt": "Desolate snow battlefield under flat overcast light, broken black banners, fallen horses and scattered shields, silhouettes of the dead, no gore detail, blood as dark brown stains in the snow, grey-white palette, wind, wide shot, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth, people, person, crowd",
+    "width": 1280,
+    "height": 720,
+    "seed": 6105,
+    "refs": [],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "scene_S07_16x9",
+    "kind": "scene",
+    "file": "assets/generated/scenes_16x9/scene_S07_16x9.jpg",
+    "prompt": "Vast symmetrical ancient Chinese throne hall, black columns receding into darkness, a high throne with the emperor as a shadow, piles of gold and silk on the steps, a single shaft of light from above, incense haze, cold gold and black, 3200K, no people in the foreground, 21mm, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth, people, person, crowd",
+    "width": 1280,
+    "height": 720,
+    "seed": 6506,
+    "refs": [],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "scene_S08_16x9",
+    "kind": "scene",
+    "file": "assets/generated/scenes_16x9/scene_S08_16x9.jpg",
+    "prompt": "Warm Chinese peasant courtyard in late afternoon, mud walls, old wooden gate, stone mill under an old tree, chili peppers and corn hanging on the wall, golden sunlight, long shadows, lived-in, warm late-afternoon sunlight, golden dust motes, earthy ochre and faded yellow, soft natural contrast, 5th century Chinese rural courtyard, cinematic film still, 35mm grain, gentle and lived-in, vertical 16:9",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth, people, person, crowd",
+    "width": 1280,
+    "height": 720,
+    "seed": 6907,
+    "refs": [],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "scene_S09_16x9",
+    "kind": "scene",
+    "file": "assets/generated/scenes_16x9/scene_S09_16x9.jpg",
+    "prompt": "Small dim Chinese boudoir, paper window diffusing light, old wooden bed, wooden dressing case with a cracked lacquer finish, dust, a black armor standing on the floor, pale yellow dress hanging, warm shaft of light from the door, warm late-afternoon sunlight, golden dust motes, earthy ochre and faded yellow, soft natural contrast, 5th century Chinese rural courtyard, cinematic film still, 35mm grain, gentle and lived-in, vertical 16:9",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth, people, person, crowd",
+    "width": 1280,
+    "height": 720,
+    "seed": 7308,
+    "refs": [],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "scene_S10_16x9",
+    "kind": "scene",
+    "file": "assets/generated/scenes_16x9/scene_S10_16x9.jpg",
+    "prompt": "Dewy grassland at sunrise, knee-high grass, low mist, blurred tree line, backlit dew drops, soft green and gold, tranquil, macro-friendly, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth, people, person, crowd",
+    "width": 1280,
+    "height": 720,
+    "seed": 7709,
+    "refs": [],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_01_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_01_16x9.jpg",
+    "prompt": "Low angle close shot of a blood-stained black lamellar breastplate crashing onto wet mud inside a dim tent, dust and straw flying, single warm oil lamp from the left, matte oxidized iron, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 5237,
+    "refs": [],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_02_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_02_16x9.jpg",
+    "prompt": "Extreme close-up of a tarnished bronze mirror reflecting only half a woman's face, a calloused scarred hand holding a worn bamboo brush applying dark red rouge to her lips, the brush touching the lower lip, lips clearly visible, warm candlelight, oxidation spots, shallow depth of field, cinematic film still, 5th century northern China, muted desaturated palette, low contrast, 35mm film grain, natural practical lighting, deep shadows, weathered textures, no beauty retouch, horizontal 16:9 composition",
+    "negative": "brush covering the lips, giant hand, modern makeup, glossy skin, text, watermark",
+    "width": 1280,
+    "height": 720,
+    "seed": 5374,
+    "refs": [],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_03_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_03_16x9.jpg",
+    "prompt": "Extreme close-up of a woman's eyes lifting toward camera, half her face in shadow, dark red matte lips, bare face with visible pores and a few faint freckles, no eyeliner, no eyeshadow, no mascara, thick natural brows, long black hair loosely tied, cold sharp gaze, bronze mirror edge in foreground, warm candle rim light, cinematic film still, 5th century northern China, muted desaturated palette, low contrast, 35mm film grain, natural practical lighting, deep shadows, weathered textures, no beauty retouch, horizontal 16:9 composition",
+    "negative": "eyeliner, eyeshadow, mascara, false eyelashes, contouring, beauty filter, smooth skin, modern makeup, glossy lips, headband, armor, text, watermark",
+    "width": 1280,
+    "height": 720,
+    "seed": 5511,
+    "refs": [
+      "assets/generated/characters/mulan_A_ref.jpg"
+    ],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_04_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_04_16x9.jpg",
+    "prompt": "Medium shot of a wooden loom jamming, half-woven undyed cloth pulled crooked, a woman's hand frozen mid-air, dim oil lamp, smoke-stained mud walls, near-monochrome desaturated image, only the red official seal retains color, cold grey-brown tones, flat overcast light, dust in the air, 5th century Chinese peasant interior, cinematic film still, 35mm grain, vertical 16:9",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 5648,
+    "refs": [],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_05_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_05_16x9.jpg",
+    "prompt": "Overhead close-up of twelve rolled conscription scrolls slamming onto a scarred wooden table, three unrolled showing vertical calligraphy and a bright red official seal, dust rising, only the red seal saturated, near-monochrome, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 5785,
+    "refs": [],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_06_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_06_16x9.jpg",
+    "prompt": "Over-the-shoulder medium shot of a hunched old father's back blocking half the frame, trembling wooden cane, a young boy hiding beside a clay stove, faint firelight, desaturated, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 5922,
+    "refs": [
+      "assets/generated/characters/father_ref.jpg"
+    ],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_07_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_07_16x9.jpg",
+    "prompt": "Close-up of a young woman in shadow, fist clenched white-knuckled, eyes lifting toward off-screen scrolls, three-quarter side, single oil lamp, near-monochrome, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 6059,
+    "refs": [
+      "assets/generated/characters/mulan_A_ref.jpg"
+    ],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_08_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_08_16x9.jpg",
+    "prompt": "Low angle medium shot in a dusty border market at dawn, a black horse rearing and neighing, dust bursting toward camera, strong backlight, 24mm, motion blur, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 6196,
+    "refs": [],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_09_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_09_16x9.jpg",
+    "prompt": "Close-up of a silver ingot dropping into a horse trader's palm, reins passing into a woman's calloused hand, dusty morning light, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 6333,
+    "refs": [],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_10_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_10_16x9.jpg",
+    "prompt": "Macro close-up of hands pressing a leather saddle buckle until it clicks, brass fittings, dust in backlight, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 6470,
+    "refs": [],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_11_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_11_16x9.jpg",
+    "prompt": "Macro close-up of an iron chain bridle pulled taut, links straightening one by one, side backlight, dust, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 6607,
+    "refs": [],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_12_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_12_16x9.jpg",
+    "prompt": "Medium shot of a long whip cracking in mid-air, tip breaking the top right of frame, dust, frozen motion, backlit, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 6744,
+    "refs": [],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_13_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_13_16x9.jpg",
+    "prompt": "Close-up of a ring-pommel short sword drawn from a worn leather scabbard, blade edge catching a line of dawn light, two chips visible, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 6881,
+    "refs": [],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_14_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_14_16x9.jpg",
+    "prompt": "Medium close-up of a woman gripping her waist-length black hair with one hand, short sword in the other, eyes forward, dusty backlight, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 7018,
+    "refs": [
+      "assets/generated/characters/mulan_A_ref.jpg"
+    ],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_15_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_15_16x9.jpg",
+    "prompt": "Low angle close-up of a blade severing a bundle of black hair, strands suspended and falling toward a glowing brazier, embers, slow motion, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 7155,
+    "refs": [
+      "assets/generated/characters/mulan_A_ref.jpg"
+    ],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_16_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_16_16x9.jpg",
+    "prompt": "Medium shot of a short-haired woman in profile, firelight rimming her hairline and ear, looking into the distance, silhouette against the brazier, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 7292,
+    "refs": [
+      "assets/ref/mulan_B_ref.jpg"
+    ],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_17_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_17_16x9.jpg",
+    "prompt": "Epic wide aerial shot of the Yellow River canyon, muddy turbulent water, loess cliffs, a single tiny rider on a narrow cliff path, hazy dusty morning, desaturated ochre, figure is 1/20 of frame, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 7429,
+    "refs": [],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_18_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_18_16x9.jpg",
+    "prompt": "Medium shot at water level, horse hooves splashing through a muddy puddle toward camera, river compressed flat by telephoto, backlit spray, 135mm, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 7566,
+    "refs": [],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_19_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_19_16x9.jpg",
+    "prompt": "Wide shot of a black rocky mountain in a blizzard mixed with sand, a tiny lone rider at a cliff edge, cold blue moonlight through clouds, snow streaks in the beam, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 7703,
+    "refs": [],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_20_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_20_16x9.jpg",
+    "prompt": "Medium shot from behind of a horse turning sideways in a fierce blizzard on a snow-covered black mountain pass, rider pulling reins, tattered black cloak whipped straight, face cloth snapping, snow and ice blowing across frame, grey-white sky, no desert, cinematic film still, 5th century northern China, muted desaturated palette, low contrast, 35mm film grain, natural practical lighting, deep shadows, weathered textures, no beauty retouch, horizontal 16:9 composition",
+    "negative": "desert, sand dunes, warm sunlight, green grass, modern clothing, text, watermark",
+    "width": 1280,
+    "height": 720,
+    "seed": 7840,
+    "refs": [
+      "assets/ref/mulan_B_ref.jpg"
+    ],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_21_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_21_16x9.jpg",
+    "prompt": "Extreme close-up of only the eyes above a dark face cloth, snow particles striking the eyes, unblinking, distant firelight reflected in pupils, cold blue light, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 7977,
+    "refs": [
+      "assets/ref/mulan_B_ref.jpg"
+    ],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_22_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_22_16x9.jpg",
+    "prompt": "Wide shot of two armies colliding in a snowstorm, silhouettes and dust, no individual detail, flat overcast light, desaturated grey-white, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 8114,
+    "refs": [],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_23_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_23_16x9.jpg",
+    "prompt": "Medium handheld shot of an enemy blade swinging down, a woman blocking with a spear one-handed, sparks bursting toward camera, chaotic motion, desaturated, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 8251,
+    "refs": [
+      "assets/ref/mulan_B_ref.jpg"
+    ],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_24_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_24_16x9.jpg",
+    "prompt": "Low angle close-up of a spearhead piercing a wooden shield, splinters and iron fragments flying, frozen motion, high speed, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 8388,
+    "refs": [],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_25_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_25_16x9.jpg",
+    "prompt": "Medium shot of a young soldier struck by an arrow, falling backward, weapon slipping from his hand, snow, no wound detail, 0.25x slow motion, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 8525,
+    "refs": [],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_26_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_26_16x9.jpg",
+    "prompt": "Medium close-up tracking a blood-and-snow covered woman fighting out of a melee, biting a cloth strip to bind her hand, three ragged comrades in the background, desaturated, handheld, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 8662,
+    "refs": [
+      "assets/ref/mulan_B_ref.jpg"
+    ],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_27_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_27_16x9.jpg",
+    "prompt": "High aerial wide shot of a corpse-strewn snowfield, a woman kneeling by a broken black banner, snow falling, flat grey light, tiny figure, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 8799,
+    "refs": [
+      "assets/ref/mulan_B_ref.jpg"
+    ],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_28_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_28_16x9.jpg",
+    "prompt": "Close-up of a broken blade stabbing into snow, a woman pushing herself up, white breath, exhausted, grey light, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 8936,
+    "refs": [
+      "assets/ref/mulan_B_ref.jpg"
+    ],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_29_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_29_16x9.jpg",
+    "prompt": "Symmetrical ultra-wide shot from a throne hall entrance, black columns receding, emperor as a shadow on a distant high throne, one tiny armored figure in the center, single shaft of light, incense haze, cold gold and black, 21mm, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 9073,
+    "refs": [
+      "assets/ref/mulan_B_ref.jpg"
+    ],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_30_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_30_16x9.jpg",
+    "prompt": "Medium shot of a Chinese woman kneeling on one knee in a vast throne hall, giving a traditional Chinese cupped-hand salute (baoquan): right fist covered by the left hand, arms extended forward at chest height, no modern military salute. Eunuchs holding gold and silk on both sides, cold top light, symmetrical, cinematic film still, 5th century northern China, muted desaturated palette, low contrast, 35mm film grain, natural practical lighting, deep shadows, weathered textures, no beauty retouch, horizontal 16:9 composition",
+    "negative": "modern military salute, hand to forehead, standing, smiling, text, watermark",
+    "width": 1280,
+    "height": 720,
+    "seed": 9210,
+    "refs": [
+      "assets/ref/mulan_B_ref.jpg"
+    ],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_31_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_31_16x9.jpg",
+    "prompt": "Medium close-up of a woman raising her head and shaking it slowly and firmly, jaw set, cold gold light, half her face in shadow, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 9347,
+    "refs": [
+      "assets/ref/mulan_B_ref.jpg"
+    ],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_32_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_32_16x9.jpg",
+    "prompt": "Wide side shot of a woman rising and walking out of a shaft of light, piles of gold and silk like cargo on the steps, her back small, black columns, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 9484,
+    "refs": [
+      "assets/ref/mulan_B_ref.jpg"
+    ],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_33_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_33_16x9.jpg",
+    "prompt": "Low angle close-up of a camel's hooves on a dirt road, neck bell swinging, dust, warm late-afternoon sunlight, golden dust motes, earthy ochre and faded yellow, soft natural contrast, 5th century Chinese rural courtyard, cinematic film still, 35mm grain, gentle and lived-in, vertical 16:9",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 9621,
+    "refs": [],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_34_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_34_16x9.jpg",
+    "prompt": "Medium shot of a woman in armor pushing open an old wooden courtyard gate, old tree, chili peppers on a mud wall, golden afternoon light, warm late-afternoon sunlight, golden dust motes, earthy ochre and faded yellow, soft natural contrast, 5th century Chinese rural courtyard, cinematic film still, 35mm grain, gentle and lived-in, vertical 16:9",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 9758,
+    "refs": [
+      "assets/ref/mulan_B_ref.jpg"
+    ],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_35_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_35_16x9.jpg",
+    "prompt": "Medium handheld shot of elderly parents stumbling out to meet their daughter, mother reaching, warm backlight, chaotic joy, warm late-afternoon sunlight, golden dust motes, earthy ochre and faded yellow, soft natural contrast, 5th century Chinese rural courtyard, cinematic film still, 35mm grain, gentle and lived-in, vertical 16:9",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 9895,
+    "refs": [
+      "assets/generated/characters/father_ref.jpg"
+    ],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_36_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_36_16x9.jpg",
+    "prompt": "Close-up of an elderly mother's hand gripping a woman's sleeve, knuckles white, worn fabric, warm light, warm late-afternoon sunlight, golden dust motes, earthy ochre and faded yellow, soft natural contrast, 5th century Chinese rural courtyard, cinematic film still, 35mm grain, gentle and lived-in, vertical 16:9",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 10032,
+    "refs": [
+      "assets/generated/characters/mother_ref.jpg"
+    ],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_37_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_37_16x9.jpg",
+    "prompt": "Medium shot of a young woman at a bronze mirror with a powder puff frozen mid-air, peach-pink blouse, comic expression, warm interior, warm late-afternoon sunlight, golden dust motes, earthy ochre and faded yellow, soft natural contrast, 5th century Chinese rural courtyard, cinematic film still, 35mm grain, gentle and lived-in, vertical 16:9",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 10169,
+    "refs": [
+      "assets/generated/characters/sister_ref.jpg"
+    ],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_38_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_38_16x9.jpg",
+    "prompt": "Low angle close-up of a 10-year-old boy sharpening a knife on a whetstone, tongue at the corner of his mouth, focused, warm light, warm late-afternoon sunlight, golden dust motes, earthy ochre and faded yellow, soft natural contrast, 5th century Chinese rural courtyard, cinematic film still, 35mm grain, gentle and lived-in, vertical 16:9",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 10306,
+    "refs": [
+      "assets/generated/characters/boy_ref.jpg"
+    ],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_39_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_39_16x9.jpg",
+    "prompt": "Medium tracking shot from behind of a woman crossing a warm interior hall, family following, she does not look back, dust in sunbeams, warm late-afternoon sunlight, golden dust motes, earthy ochre and faded yellow, soft natural contrast, 5th century Chinese rural courtyard, cinematic film still, 35mm grain, gentle and lived-in, vertical 16:9",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 10443,
+    "refs": [
+      "assets/ref/mulan_B_ref.jpg"
+    ],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_40_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_40_16x9.jpg",
+    "prompt": "Medium shot from outside a room at dusk: a woman in dark lamellar armor stepping into a dark interior and pulling the wooden door closed behind her, seen from the courtyard, warm low sunlight behind her, dust in the air, no crowd, no soldiers, cinematic film still, 5th century northern China, muted desaturated palette, low contrast, 35mm film grain, natural practical lighting, deep shadows, weathered textures, no beauty retouch, horizontal 16:9 composition",
+    "negative": "crowd, soldiers, many people, throne hall, modern door, text, watermark",
+    "width": 1280,
+    "height": 720,
+    "seed": 10580,
+    "refs": [
+      "assets/ref/mulan_B_ref.jpg"
+    ],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_41_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_41_16x9.jpg",
+    "prompt": "Interior close-up of an empty black lamellar armor standing upright on the floor, a short bronze sword and a small dark porcelain rouge box side by side on a wooden dressing case, a slender female hand with long soft fingers and clean short nails reaching in from a dark cloth sleeve to lift the small box, no hair on the arm, dim paper-window light, cinematic film still, 5th century northern China, muted desaturated palette, low contrast, 35mm film grain, natural practical lighting, deep shadows, weathered textures, no beauty retouch, horizontal 16:9 composition",
+    "negative": "masculine hand, man's hand, hairy arm, arm hair, muscular forearm, visible veins, soldiers, people, crowd, bright red box, modern objects, text, watermark",
+    "width": 1280,
+    "height": 720,
+    "seed": 10717,
+    "refs": [],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_42_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_42_16x9.jpg",
+    "prompt": "Medium shot from a courtyard of an old wooden door opening, a woman in a faded pale yellow ruqun standing in the doorway, backlit by warm afternoon sun, high bun, gold forehead ornament, red lips, three soldiers' backs out of focus in the foreground, dark interior, armor on the floor, warm late-afternoon sunlight, golden dust motes, earthy ochre and faded yellow, soft natural contrast, 5th century Chinese rural courtyard, cinematic film still, 35mm grain, gentle and lived-in, vertical 16:9",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 10854,
+    "refs": [
+      "assets/generated/characters/mulan_C_ref.jpg"
+    ],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_43_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_43_16x9.jpg",
+    "prompt": "Macro low-angle side view of two wild hares running side by side across dewy grass toward the right, four paws nearly synchronized, backlit sunrise, mist, cinematic film still, 5th century northern China, muted desaturated palette, low contrast, 35mm film grain, natural practical lighting, deep shadows, weathered textures, no beauty retouch, horizontal 16:9 composition",
+    "negative": "rabbits running away from camera, single hare, cartoon, text, watermark",
+    "width": 1280,
+    "height": 720,
+    "seed": 10991,
+    "refs": [],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_44_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_44_16x9.jpg",
+    "prompt": "Macro close-up of a hare's eye reflecting morning light, dew on fur, cinematic film still, 5th century northern China, Northern Wei era, muted desaturated palette, low contrast, 35mm film grain, natural and practical lighting only, deep shadows, weathered textures, visible skin pores and fabric wear, no beauty retouch, no CGI glow, no text, no watermark, horizontal 16:9 composition, shallow depth of field",
+    "negative": "modern clothing, zipper, buttons, printed pattern, plastic, neon, glossy skin, airbrushed, beauty filter, makeup, eyeliner, false eyelashes, fantasy armor, glowing runes, particle effects, lens flare, HDR, oversaturated, text, watermark, logo, extra fingers, deformed hands, anime, illustration, 3D render, video game, cosplay, smiling with teeth",
+    "width": 1280,
+    "height": 720,
+    "seed": 11128,
+    "refs": [],
+    "steps": 25,
+    "cfg": 2.0
+  },
+  {
+    "id": "shot_45_16x9",
+    "kind": "shot",
+    "file": "assets/generated/shots_16x9/shot_45_16x9.jpg",
+    "prompt": "Close-up portrait of the same woman as reference C, mid-twenties, calm clear eyes with a faint closed-mouth smile, thin old scar through the left eyebrow, weathered uneven skin with visible pores and small blemishes, dark red matte dry lips, small gold foil flower mark on forehead, hair pulled up with a plain silver pin, warm morning light, direct gaze, cinematic film still, 5th century northern China, muted desaturated palette, low contrast, 35mm film grain, natural practical lighting, deep shadows, weathered textures, no beauty retouch, horizontal 16:9 composition",
+    "negative": "smooth airbrushed skin, poreless, glamour makeup, heavy eyeliner, glossy lips, broad smile, teeth, laughing, teenager, different woman, text, watermark",
+    "width": 1280,
+    "height": 720,
+    "seed": 11265,
+    "refs": [
+      "assets/generated/characters/mulan_C_ref.jpg"
+    ],
+    "steps": 25,
+    "cfg": 2.0
+  }
+]

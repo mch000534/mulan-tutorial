@@ -1,0 +1,52 @@
+{
+  "shot_02": {
+    "prompt": "Extreme close-up of a tarnished bronze mirror reflecting only half a woman's face, a calloused scarred hand holding a worn bamboo brush applying dark red rouge to her lips, the brush touching the lower lip, lips clearly visible, warm candlelight, oxidation spots, shallow depth of field, cinematic film still, 5th century northern China, muted desaturated palette, low contrast, 35mm film grain, natural practical lighting, deep shadows, weathered textures, no beauty retouch, vertical 9:16 composition",
+    "negative": "brush covering the lips, giant hand, modern makeup, glossy skin, text, watermark",
+    "refs": []
+  },
+  "shot_03": {
+    "prompt": "Extreme close-up of a woman's eyes lifting toward camera, half her face in shadow, dark red matte lips, bare face with visible pores and a few faint freckles, no eyeliner, no eyeshadow, no mascara, thick natural brows, long black hair loosely tied, cold sharp gaze, bronze mirror edge in foreground, warm candle rim light, cinematic film still, 5th century northern China, muted desaturated palette, low contrast, 35mm film grain, natural practical lighting, deep shadows, weathered textures, no beauty retouch, vertical 9:16 composition",
+    "negative": "eyeliner, eyeshadow, mascara, false eyelashes, contouring, beauty filter, smooth skin, modern makeup, glossy lips, headband, armor, text, watermark",
+    "refs": [
+      "assets/generated/characters/mulan_A_ref.jpg"
+    ]
+  },
+  "shot_20": {
+    "prompt": "Medium shot from behind of a horse turning sideways in a fierce blizzard on a snow-covered black mountain pass, rider pulling reins, tattered black cloak whipped straight, face cloth snapping, snow and ice blowing across frame, grey-white sky, no desert, cinematic film still, 5th century northern China, muted desaturated palette, low contrast, 35mm film grain, natural practical lighting, deep shadows, weathered textures, no beauty retouch, vertical 9:16 composition",
+    "negative": "desert, sand dunes, warm sunlight, green grass, modern clothing, text, watermark",
+    "refs": [
+      "assets/ref/mulan_B_ref.jpg"
+    ]
+  },
+  "shot_30": {
+    "prompt": "Medium shot of a Chinese woman kneeling on one knee in a vast throne hall, giving a traditional Chinese cupped-hand salute (baoquan): right fist covered by the left hand, arms extended forward at chest height, no modern military salute. Eunuchs holding gold and silk on both sides, cold top light, symmetrical, cinematic film still, 5th century northern China, muted desaturated palette, low contrast, 35mm film grain, natural practical lighting, deep shadows, weathered textures, no beauty retouch, vertical 9:16 composition",
+    "negative": "modern military salute, hand to forehead, standing, smiling, text, watermark",
+    "refs": [
+      "assets/ref/mulan_B_ref.jpg"
+    ]
+  },
+  "shot_40": {
+    "prompt": "Medium shot from outside a room at dusk: a woman in dark lamellar armor stepping into a dark interior and pulling the wooden door closed behind her, seen from the courtyard, warm low sunlight behind her, dust in the air, no crowd, no soldiers, cinematic film still, 5th century northern China, muted desaturated palette, low contrast, 35mm film grain, natural practical lighting, deep shadows, weathered textures, no beauty retouch, vertical 9:16 composition",
+    "negative": "crowd, soldiers, many people, throne hall, modern door, text, watermark",
+    "refs": [
+      "assets/ref/mulan_B_ref.jpg"
+    ]
+  },
+  "shot_41": {
+    "prompt": "Interior close-up of an empty black lamellar armor standing upright on the floor, a short bronze sword and a small dark porcelain rouge box side by side on a wooden dressing case, a slender female hand with long soft fingers and clean short nails reaching in from a dark cloth sleeve to lift the small box, no hair on the arm, dim paper-window light, cinematic film still, 5th century northern China, muted desaturated palette, low contrast, 35mm film grain, natural practical lighting, deep shadows, weathered textures, no beauty retouch, vertical 9:16 composition",
+    "negative": "masculine hand, man's hand, hairy arm, arm hair, muscular forearm, visible veins, soldiers, people, crowd, bright red box, modern objects, text, watermark",
+    "refs": []
+  },
+  "shot_43": {
+    "prompt": "Macro low-angle side view of two wild hares running side by side across dewy grass toward the right, four paws nearly synchronized, backlit sunrise, mist, cinematic film still, 5th century northern China, muted desaturated palette, low contrast, 35mm film grain, natural practical lighting, deep shadows, weathered textures, no beauty retouch, vertical 9:16 composition",
+    "negative": "rabbits running away from camera, single hare, cartoon, text, watermark",
+    "refs": []
+  },
+  "shot_45": {
+    "prompt": "Close-up portrait of the same woman as reference C, mid-twenties, calm clear eyes with a faint closed-mouth smile, thin old scar through the left eyebrow, weathered uneven skin with visible pores and small blemishes, dark red matte dry lips, small gold foil flower mark on forehead, hair pulled up with a plain silver pin, warm morning light, direct gaze, cinematic film still, 5th century northern China, muted desaturated palette, low contrast, 35mm film grain, natural practical lighting, deep shadows, weathered textures, no beauty retouch, vertical 9:16 composition",
+    "negative": "smooth airbrushed skin, poreless, glamour makeup, heavy eyeliner, glossy lips, broad smile, teeth, laughing, teenager, different woman, text, watermark",
+    "refs": [
+      "assets/generated/characters/mulan_C_ref.jpg"
+    ]
+  }
+}
