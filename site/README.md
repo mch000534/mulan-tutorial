@@ -2,6 +2,8 @@
 
 ## 線上展示
 
+[開啟線上教學網站](https://mch000534.github.io/mulan-tutorial/)
+
 網站使用 GitHub Pages 發布，推送到 `main` 後由
 `.github/workflows/pages.yml` 自動部署。根目錄入口會轉到 `site/`。
 首次設定時，在倉庫 **Settings → Pages → Source** 選擇 **GitHub Actions**。

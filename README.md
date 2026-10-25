@@ -4,6 +4,7 @@
 
 ## 先看這個
 
+- **線上教學網站**：[GitHub Pages](https://mch000534.github.io/mulan-tutorial/)
 - **教學網站（SOP + 133 張圖庫 + 粗剪播放器）**：[`site/index.html`](./site/index.html)
 - **手剪版（16:9 粵語＋普通話）**：[`assets/video/cuts/雌雄_手剪_16x9_粵語_v1.mp4`](./assets/video/cuts/雌雄_手剪_16x9_粵語_v1.mp4)、[`雌雄_手剪_16x9_普通話_v1.mp4`](./assets/video/cuts/雌雄_手剪_16x9_普通話_v1.mp4)（1920×1080 / 115.4s，網站章節：06B）
 - **60 秒粵語粗剪**：[`assets/video/cuts/雌雄_粗剪_16x9_粵語_v1.mp4`](./assets/video/cuts/雌雄_粗剪_16x9_粵語_v1.mp4)（網站章節：06B）
