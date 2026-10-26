@@ -915,8 +915,9 @@ CUTS_DIR = ASSETS / "video" / "cuts"
 ROUGH_CUT_MP4 = CUTS_DIR / "雌雄_粗剪_16x9_粵語_v1.mp4"
 ROUGH_CUT_JSON = CUTS_DIR / "雌雄_粗剪_16x9_粵語_v1.json"
 MANUAL_CUTS = [
-    ("雌雄_手剪_16x9_粵語_v1.mp4", "粵語"),
-    ("雌雄_手剪_16x9_普通話_v1.mp4", "普通話"),
+    ("雌雄_手剪_16x9_粵語_v1.mp4", "粵語", "115.417s · 1920×1080 · 24fps · 2770 幀 · H.264 + AAC 48k 立體聲 · 約 26 MB"),
+    ("雌雄_手剪_16x9_普通話_v1.mp4", "普通話", "115.417s · 1920×1080 · 24fps · 2770 幀 · H.264 + AAC 48k 立體聲 · 約 26 MB"),
+    ("雌雄_手剪_16x9_MV_v1.mp4", "MV 版本", "135.189s · 1920×1080 · 24fps · H.264 + AAC · 約 31 MB"),
 ]
 
 
@@ -950,7 +951,7 @@ def build_roughcut_section() -> str:
     gain = meta.get("ambience_gain", 0.85)
 
     manual_block = ""
-    for manual_name, manual_lang in MANUAL_CUTS:
+    for manual_name, manual_lang, manual_specs in MANUAL_CUTS:
         manual_mp4 = CUTS_DIR / manual_name
         if not manual_mp4.exists():
             continue
@@ -963,7 +964,7 @@ def build_roughcut_section() -> str:
         aria-label="雌雄 手剪版，16:9 {manual_lang}"></video>
       <figcaption>
         <b>雌雄 · 手剪版 · 16:9 {manual_lang} · 手動剪輯</b>
-        <span>115.417s · 1920×1080 · 24fps · 2770 幀 · H.264 + AAC 48k 立體聲 · 約 26 MB</span>
+        <span>{manual_specs}</span>
       </figcaption>
     </figure>
 """
@@ -977,7 +978,7 @@ def build_roughcut_section() -> str:
     <div class="chapter-head reveal">
       <p class="kicker">06B / Rough cut</p>
       <h2>45 鏡，<br class="br-d">接成 60 秒</h2>
-      <p class="lead">動態素材齊了就剪。這一版把 45 段 i2v 片段依 <code>design/02</code> 時間碼逐鏡裁切（24fps 整幀、合計 {meta["frames"]} 幀），混入粵語 DX 對白與各鏡 H3 原生環境聲，並內嵌軟字幕。對白不變速：某句比窗格長時以 L cut 跨到下一畫面，必要時延長片尾讓最後一句講完。粗剪用來驗節奏與對點，不是定剪。本章收錄：上方手剪版（粵語／普通話雙版本、完整節奏），下方腳本粗剪（可重跑、可對點）。</p>
+      <p class="lead">動態素材齊了就剪。這一版把 45 段 i2v 片段依 <code>design/02</code> 時間碼逐鏡裁切（24fps 整幀、合計 {meta["frames"]} 幀），混入粵語 DX 對白與各鏡 H3 原生環境聲，並內嵌軟字幕。對白不變速：某句比窗格長時以 L cut 跨到下一畫面，必要時延長片尾讓最後一句講完。粗剪用來驗節奏與對點，不是定剪。本章收錄：上方手剪版（粵語／普通話雙語版本，以及 MV 版本），下方腳本粗剪（可重跑、可對點）。</p>
     </div>
 {manual_block}
     <figure class="clip roughcut-player reveal">
@@ -1027,6 +1028,7 @@ python3 scripts/assemble_cut.py --overrides \\
           <a href="{href}"><span>MP4</span>下載粗剪（約 23 MB）</a>
           <a href="../assets/video/cuts/雌雄_手剪_16x9_粵語_v1.mp4"><span>MP4</span>下載手剪版粵語（約 26 MB）</a>
           <a href="../assets/video/cuts/雌雄_手剪_16x9_普通話_v1.mp4"><span>MP4</span>下載手剪版普通話（約 26 MB）</a>
+          <a href="../assets/video/cuts/雌雄_手剪_16x9_MV_v1.mp4"><span>MP4</span>下載 MV 版本（約 31 MB）</a>
           <a href="{json_href}"><span>JSON</span>逐鏡組接紀錄</a>
           <a href="../assets/video/cuts/README.md"><span>Notes</span>粗剪說明與待辦</a>
           <a href="#shots"><span>Shot list</span>回到 45 鏡清單</a>
@@ -1868,6 +1870,7 @@ python3 scripts/to_jpg.py</code></pre>
         <tr><td>Clips 16:9</td><td>MP4 / H.264 + AAC</td><td>90 支 i2v 片段（45 鏡 × 2 個 seed），1280×736 / 24fps / 原生立體聲。</td></tr>
         <tr><td>Rough cut 16:9</td><td>MP4 / H.264 + AAC + mov_text</td><td>粵語粗剪 60.000s / 1440 幀 / 1280×720；見 <a href="#roughcut">06B</a>。</td></tr>
         <tr><td>Manual cut 16:9</td><td>MP4 / H.264 + AAC</td><td>手剪版雙語言：粵語＋普通話，各 115.417s / 2770 幀 / 1920×1080；見 <a href="#roughcut">06B</a>。</td></tr>
+        <tr><td>MV cut 16:9</td><td>MP4 / H.264 + AAC</td><td>MV 版本：135.189s / 1920×1080 / 24fps；見 <a href="#roughcut">06B</a>。</td></tr>
         <tr><td>Docs</td><td>Markdown</td><td>設計文件、試鏡表、雙語版本、這份教學。</td></tr>
       </tbody>
     </table>
@@ -1943,6 +1946,7 @@ open http://localhost:8000/site/</code></pre>
           <a href="../assets/video/cuts/雌雄_粗剪_16x9_粵語_v1.mp4"><span>Rough cut</span>60 秒粵語粗剪 MP4</a>
           <a href="../assets/video/cuts/雌雄_手剪_16x9_粵語_v1.mp4"><span>Manual cut</span>手剪版 16:9 粵語 MP4</a>
           <a href="../assets/video/cuts/雌雄_手剪_16x9_普通話_v1.mp4"><span>Manual cut</span>手剪版 16:9 普通話 MP4</a>
+          <a href="../assets/video/cuts/雌雄_手剪_16x9_MV_v1.mp4"><span>MV cut</span>MV 版本 16:9 MP4</a>
           <a href="../assets/generated/index.html"><span>All assets</span>完整資產索引</a>
           <a href="../assets/generated/README.md"><span>Report</span>生成報告與已知問題</a>
         </div>

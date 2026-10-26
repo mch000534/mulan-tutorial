@@ -7,6 +7,7 @@
 - **線上教學網站**：[GitHub Pages](https://mch000534.github.io/mulan-tutorial/)
 - **教學網站（SOP + 133 張圖庫 + 粗剪播放器）**：[`site/index.html`](./site/index.html)
 - **手剪版（16:9 粵語＋普通話）**：[`assets/video/cuts/雌雄_手剪_16x9_粵語_v1.mp4`](./assets/video/cuts/雌雄_手剪_16x9_粵語_v1.mp4)、[`雌雄_手剪_16x9_普通話_v1.mp4`](./assets/video/cuts/雌雄_手剪_16x9_普通話_v1.mp4)（1920×1080 / 115.4s，網站章節：06B）
+- **MV 版本（16:9）**：[`assets/video/cuts/雌雄_手剪_16x9_MV_v1.mp4`](./assets/video/cuts/雌雄_手剪_16x9_MV_v1.mp4)（1920×1080 / 24fps / 135.2s，網站章節：06B）
 - **60 秒粵語粗剪**：[`assets/video/cuts/雌雄_粗剪_16x9_粵語_v1.mp4`](./assets/video/cuts/雌雄_粗剪_16x9_粵語_v1.mp4)（網站章節：06B）
 - **45 鏡完整清單（時間碼／劇本／聲音／首幀與動態提示詞）**：[`site/index.html#shots`](./site/index.html#shots)
 - **8 份設計文件的生成提示詞（可直接複製）**：[`site/index.html#doc-prompts`](./site/index.html#doc-prompts)
